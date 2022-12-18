@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.346a0b35.js",
+    "static/media/snowflake.svg": "/static/media/snowflake.1a5fefd4fe38dfe480993c2a1c1960cf.svg",
+    "static/media/slack.svg": "/static/media/slack.77750f269a6568cd50415271f2a17f34.svg",
+    "static/media/algolia.svg": "/static/media/algolia.0c21b8c3e45b748431ca617aeeec8ca1.svg",
+    "static/media/mailgun.svg": "/static/media/mailgun.e8bad17c0bad42633d6ec635237bf8b5.svg",
+    "static/media/sendgrid.svg": "/static/media/sendgrid.f97fa6ef2fa78ed31f8ad4ea3c03037a.svg",
+    "static/media/terraform.svg": "/static/media/terraform.5a23b2081d702285d1b017e1e7b706ef.svg",
+    "static/media/auth0.svg": "/static/media/auth0.745b75aed822d1db8797687e2afd213e.svg",
+    "static/media/stripe.svg": "/static/media/stripe.c46c2b41e905214445deddcb58c3abdb.svg",
+    "static/media/twilio.svg": "/static/media/twilio.8e99d9f85fae68ff428e712ca8d9d63b.svg",
+    "static/media/okta.svg": "/static/media/okta.1bf3221368ca1859129cdcdf04f1d70a.svg",
+    "index.html": "/index.html",
+    "main.346a0b35.js.map": "/static/js/main.346a0b35.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.346a0b35.js"
+  ]
+}
