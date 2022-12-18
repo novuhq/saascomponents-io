@@ -1,0 +1,1262 @@
+[
+  {
+     "name":"Airplane",
+     "category":"Admin Backoffice",
+     "url":"https://www.airplane.dev/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Appsmith",
+     "category":"Admin Backoffice",
+     "url":"https://www.appsmith.com/",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"BudiBase",
+     "category":"Admin Backoffice",
+     "url":"https://budibase.com/",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Budibase",
+     "category":"Admin Backoffice",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Retool",
+     "category":"Admin Backoffice",
+     "url":"https://retool.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Tooljet",
+     "category":"Admin Backoffice",
+     "url":"https://www.tooljet.com/",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"CommandBar",
+     "category":"Advanced UI Navigation",
+     "url":"https://www.commandbar.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Gloo",
+     "category":"API Gateway",
+     "url":"https://www.solo.io/products/gloo-gateway/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"haProxy",
+     "category":"API Gateway",
+     "url":"http://www.haproxy.org/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"NginX",
+     "category":"API Gateway",
+     "url":"https://www.nginx.com/",
+     "opensource":true,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Auth0",
+     "category":"Authentication",
+     "url":"https://auth0.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Clerk",
+     "category":"Authentication",
+     "url":"https://clerk.dev/",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Cognito",
+     "category":"Authentication",
+     "url":"https://aws.amazon.com/cognito/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Frontegg",
+     "category":"Authentication",
+     "url":"https://frontegg.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Hanaco",
+     "category":"Authentication",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Keycloak",
+     "category":"Authentication",
+     "url":"https://www.keycloak.org/",
+     "opensource":true,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Kinde.com",
+     "category":"Authentication",
+     "url":"",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Okta",
+     "category":"Authentication",
+     "url":"https://www.okta.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Aserto",
+     "category":"Authorization",
+     "url":"https://www.aserto.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Authzed",
+     "category":"Authorization",
+     "url":"",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Cerbos",
+     "category":"Authorization",
+     "url":"https://cerbos.dev/",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Oso",
+     "category":"Authorization",
+     "url":"",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Permit",
+     "category":"Authorization",
+     "url":"https://www.permit.io/",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Styra",
+     "category":"Authorization",
+     "url":"",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Amplication",
+     "category":"Backend as a Service",
+     "url":"",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Appwrite",
+     "category":"Backend as a Service",
+     "url":"https://appwrite.io/",
+     "opensource":true,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Chiselstrike",
+     "category":"Backend as a Service",
+     "url":"",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Supabase",
+     "category":"Backend as a Service",
+     "url":"https://supabase.com/",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Railway",
+     "category":"Backend Serverless Deployment Platform",
+     "url":"https://railway.app/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Rubrik",
+     "category":"Backup & Recovery",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Braintree",
+     "category":"Billing & Subscription",
+     "url":"https://www.braintreepayments.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Bunny",
+     "category":"Billing & Subscription",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Metronome",
+     "category":"Billing & Subscription",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Paddle",
+     "category":"Billing & Subscription",
+     "url":"https://www.paddle.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Stripe",
+     "category":"Billing & Subscription",
+     "url":"https://stripe.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Subskribe",
+     "category":"Billing & Subscription",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Ghost",
+     "category":"Blog System",
+     "url":"https://ghost.org/",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Mattermost",
+     "category":"Chat",
+     "url":"https://mattermost.com/",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Slack",
+     "category":"Chat",
+     "url":"https://slack.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Jest",
+     "category":"Code Testing",
+     "url":"https://jestjs.io/",
+     "opensource":true,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Outsmartly",
+     "category":"Commerce Optimization",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Twilio",
+     "category":"Communication Channel",
+     "url":"https://www.twilio.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Clutch",
+     "category":"Composition Platform",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Directus",
+     "category":"Composition Platform",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Uniform",
+     "category":"Composition Platform",
+     "url":"https://uniform.dev/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Agility",
+     "category":"Content Management System",
+     "url":"https://agilitycms.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"builder.io",
+     "category":"Content Management System",
+     "url":"www.builder.io",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Contentful",
+     "category":"Content Management System",
+     "url":"https://www.contentful.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Contentstack",
+     "category":"Content Management System",
+     "url":"https://www.contentstack.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"hygraph",
+     "category":"Content Management System",
+     "url":"https://hygraph.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"kontent.ai",
+     "category":"Content Management System",
+     "url":"kontent.ai",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Magnolia",
+     "category":"Content Management System",
+     "url":"https://www.magnolia-cms.com/",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Sanity",
+     "category":"Content Management System",
+     "url":"https://www.sanity.io/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Storyblok",
+     "category":"Content Management System",
+     "url":"https://www.storyblok.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Strapi",
+     "category":"Content Management System",
+     "url":"https://strapi.io/",
+     "opensource":true,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Airbyte",
+     "category":"Customer Data Platform",
+     "url":"",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"CloudQuery",
+     "category":"Customer Data Platform",
+     "url":"",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"FiveTran",
+     "category":"Customer Data Platform",
+     "url":"",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"RudderStack",
+     "category":"Customer Data Platform",
+     "url":"https://www.rudderstack.com/",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Segment",
+     "category":"Customer Data Platform",
+     "url":"https://segment.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Databricks",
+     "category":"Data Warehouse",
+     "url":"https://www.databricks.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Snowflake",
+     "category":"Data Warehouse",
+     "url":"https://www.snowflake.com/en/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Cloudinary",
+     "category":"Digital Resource Management",
+     "url":"https://cloudinary.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"imagekit",
+     "category":"Digital Resource Management",
+     "url":"https://imagekit.io/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Cypress",
+     "category":"e2e Testing",
+     "url":"www.cypress.io",
+     "opensource":true,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"MailGun",
+     "category":"Email",
+     "url":"https://www.mailgun.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"SendGrid",
+     "category":"Email",
+     "url":"https://sendgrid.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Cube.dev",
+     "category":"Embedded Analytics",
+     "url":"",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Looker",
+     "category":"Embedded Analytics",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Sisense",
+     "category":"Embedded Analytics",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Tinybird",
+     "category":"Embedded Analytics",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"FlagSmith",
+     "category":"Feature Flag",
+     "url":"https://flagsmith.com/",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"LanuchDarkly",
+     "category":"Feature Flag",
+     "url":"https://launchdarkly.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"PostHog",
+     "category":"Feature Flag",
+     "url":"https://posthog.com/",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Statsig",
+     "category":"Feature Flag",
+     "url":"",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Partytown",
+     "category":"Front End Lazy Load Optimization",
+     "url":"https://partytown.builder.io/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Single Component",
+     "icon":null
+  },
+  {
+     "name":"Commerce Layer",
+     "category":"Headless Commerce",
+     "url":"https://commercelayer.io/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Medusa",
+     "category":"Headless Commerce",
+     "url":"https://medusajs.com/",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Nacelle",
+     "category":"Headless Commerce",
+     "url":"https://nacelle.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"OrderCloud",
+     "category":"Headless Commerce",
+     "url":"https://ordercloud.io/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Saleor",
+     "category":"Headless Commerce",
+     "url":"https://saleor.io/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Shopify",
+     "category":"Headless Commerce",
+     "url":"https://shopify.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"spryker",
+     "category":"Headless Commerce",
+     "url":"https://spryker.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Swell",
+     "category":"Headless Commerce",
+     "url":"https://www.swell.is/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Pulumi",
+     "category":"Infrastructure as Code",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Terraform",
+     "category":"Infrastructure as Code",
+     "url":"https://www.terraform.io/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"API Deck",
+     "category":"Integration Store",
+     "url":"https://www.apideck.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Merge",
+     "category":"Integration Store",
+     "url":"https://merge.dev",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Logz",
+     "category":"Logs",
+     "url":"https://logz.io/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Prometheus",
+     "category":"Logs",
+     "url":"https://prometheus.io/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Quickwit",
+     "category":"Logs",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Axiom",
+     "category":"Monitoring & Observability",
+     "url":"https://www.axiom.co/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Checkly",
+     "category":"Monitoring & Observability",
+     "url":"",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Datadog",
+     "category":"Monitoring & Observability",
+     "url":"https://www.datadoghq.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"DebugBear",
+     "category":"Monitoring & Observability",
+     "url":"https://www.debugbear.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Epsagon",
+     "category":"Monitoring & Observability",
+     "url":"https://epsagon.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"GraphJSON",
+     "category":"Monitoring & Observability",
+     "url":"https://www.graphjson.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Logtail",
+     "category":"Monitoring & Observability",
+     "url":"https://betterstack.com/logtail",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"New Relic",
+     "category":"Monitoring & Observability",
+     "url":"https://newrelic.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"PageWatch",
+     "category":"Monitoring & Observability",
+     "url":"https://pagewatch.dev/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Sentry",
+     "category":"Monitoring & Observability",
+     "url":"https://sentry.io/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Courier",
+     "category":"Notifications Infrastructure",
+     "url":"https://www.courier.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"knock.app",
+     "category":"Notifications Infrastructure",
+     "url":"https://knock.app/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Novu",
+     "category":"Notifications Infrastructure",
+     "url":"https://novu.co/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Amberflo",
+     "category":"Pricing & Packaging",
+     "url":"https://www.amberflo.io/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Stigg",
+     "category":"Pricing & Packaging",
+     "url":"https://www.stigg.io/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Subskribe",
+     "category":"Pricing & Packaging",
+     "url":"",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Piiano",
+     "category":"Privacy Infrastructure",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Skyflow",
+     "category":"Privacy Infrastructure",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Apple-IOS",
+     "category":"Push",
+     "url":"https://developer.apple.com/documentation/usernotifications/setting_up_a_remote_notification_server/sending_notification_requests_to_apns",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Google-Android",
+     "category":"Push",
+     "url":"",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Algolia",
+     "category":"Searching",
+     "url":"https://www.algolia.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Findify",
+     "category":"Searching",
+     "url":"https://findify.io/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Meilisearch",
+     "category":"Searching",
+     "url":"",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Typesense",
+     "category":"Searching",
+     "url":"",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Configu",
+     "category":"Secrets Management",
+     "url":"https://configu.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Doppler",
+     "category":"Secrets Management",
+     "url":"https://www.doppler.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Gatsby",
+     "category":"Serverless Deployment Platform",
+     "url":"",
+     "opensource":true,
+     "company":true,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Netlify",
+     "category":"Serverless Deployment Platform",
+     "url":"https://www.netlify.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Vercel",
+     "category":"Serverless Deployment Platform",
+     "url":"https://vercel.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Plivo",
+     "category":"SMS,Voice",
+     "url":"https://www.plivo.com/",
+     "opensource":false,
+     "company":true,
+     "categoryType":"",
+     "icon":null
+  },
+  {
+     "name":"Vonage",
+     "category":"SMS,Voice",
+     "url":"https://www.vonage.com/communications-apis/sms/?icmp=megamenu|mainnav_products_gotothecommunicationsapispage_gotothemessagesapipage_gotothesmspage",
+     "opensource":false,
+     "company":true,
+     "categoryType":"",
+     "icon":null
+  },
+  {
+     "name":"Atlassian StatusPage",
+     "category":"Statuspage",
+     "url":"https://www.atlassian.com/software/statuspage",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"BetterUptime",
+     "category":"Statuspage",
+     "url":"https://betterstack.com/better-uptime",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"OnlineOrNot",
+     "category":"Statuspage",
+     "url":"https://onlineornot.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Aiven",
+     "category":"Streaming & Messaging Platform",
+     "url":"https://aiven.io/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Confluent",
+     "category":"Streaming & Messaging Platform",
+     "url":"https://www.confluent.io/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Datorios",
+     "category":"Streaming & Messaging Platform",
+     "url":"https://datorios.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Decodable",
+     "category":"Streaming & Messaging Platform",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Estuary.dev",
+     "category":"Streaming & Messaging Platform",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Kafka",
+     "category":"Streaming & Messaging Platform",
+     "url":"https://kafka.apache.org/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Memphis",
+     "category":"Streaming & Messaging Platform",
+     "url":"https://memphis.dev/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Red Panda",
+     "category":"Streaming & Messaging Platform",
+     "url":"https://redpanda.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Upstash",
+     "category":"Streaming & Messaging Platform",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Technical Infrastructure ",
+     "icon":null
+  },
+  {
+     "name":"Coqui",
+     "category":"Voice",
+     "url":"",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"hook0",
+     "category":"Webhooks",
+     "url":"https://www.hook0.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Hookdeck",
+     "category":"Webhooks",
+     "url":"https://hookdeck.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"HostedHooks",
+     "category":"Webhooks",
+     "url":"https://www.hostedhooks.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Svix",
+     "category":"Webhooks",
+     "url":"https://www.svix.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  },
+  {
+     "name":"Webhookie",
+     "category":"Webhooks",
+     "url":"https://webhookie.com/",
+     "opensource":false,
+     "company":false,
+     "categoryType":"Application Infrastructure",
+     "icon":null
+  }
+]
