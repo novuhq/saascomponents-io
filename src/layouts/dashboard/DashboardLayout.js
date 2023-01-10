@@ -1,6 +1,6 @@
-import { Outlet } from 'react-router-dom';
 import { styled } from '@mui/material/styles';
 import Header from './header';
+import MainPage from '../../pages/MainPage';
 
 const APP_BAR_MOBILE = 64;
 const APP_BAR_DESKTOP = 92;
@@ -24,15 +24,13 @@ const Main = styled('div')(({ theme }) => ({
   },
 }));
 
-// ----------------------------------------------------------------------
-
 export default function DashboardLayout() {
   return (
     <StyledRoot>
       <Header />
 
       <Main>
-        <Outlet />
+        <MainPage />
       </Main>
     </StyledRoot>
   );
