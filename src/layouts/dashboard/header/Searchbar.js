@@ -1,13 +1,9 @@
 import { useState } from 'react';
-// @mui
 import { styled } from '@mui/material/styles';
-import { Input, Slide, Button, IconButton, InputAdornment, ClickAwayListener } from '@mui/material';
-// utils
+import { Input, Slide, IconButton, InputAdornment, ClickAwayListener } from '@mui/material';
 import { bgBlur } from '../../../utils/cssStyles';
-// component
 import Iconify from '../../../components/iconify';
-
-// ----------------------------------------------------------------------
+import { useSearchStore } from '../../../stores';
 
 const HEADER_HEIGHT = 64;
 
@@ -29,9 +25,9 @@ const StyledSearchbar = styled('div')(({ theme }) => ({
   },
 }));
 
-// ----------------------------------------------------------------------
-
 export default function Searchbar() {
+  const search = useSearchStore((state) => state.search);
+  const setSearch = useSearchStore((state) => state.setSearch);
   const [open, setOpen] = useState(false);
 
   const handleOpen = () => {
@@ -63,11 +59,12 @@ export default function Searchbar() {
                   <Iconify icon="eva:search-fill" sx={{ color: 'text.disabled', width: 20, height: 20 }} />
                 </InputAdornment>
               }
+              value={search}
+              onChange={(element) => {
+                setSearch(element.target.value);
+              }}
               sx={{ mr: 1, fontWeight: 'fontWeightBold' }}
             />
-            <Button variant="contained" onClick={handleClose}>
-              Search
-            </Button>
           </StyledSearchbar>
         </Slide>
       </div>

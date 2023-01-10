@@ -1,10 +1,20 @@
 import { Helmet } from 'react-helmet-async';
 import { Grid, Container, Typography, Link, Chip } from '@mui/material';
+import GitHubIcon from '@mui/icons-material/GitHub';
 import vendors from '../vendors/vendors.json';
 import { VendorsList } from '../sections/@dashboard/app';
+import { useSearchStore } from '../stores';
 
 export default function MainPage() {
-  const categories = vendors.reduce((categories, vendor) => {
+  const search = useSearchStore((state) => state.search);
+  const filteredVendors = vendors.filter((vendor) => {
+    const isCategory = vendor.category.toLowerCase().includes(search.toLowerCase());
+    const isCategoryType = vendor.categoryType.toLowerCase().includes(search.toLowerCase());
+    const isName = vendor.name.toLowerCase().includes(search.toLowerCase());
+    return isCategory || isCategoryType || isName;
+  });
+
+  const categories = filteredVendors.reduce((categories, vendor) => {
     if (!categories.includes(vendor.category)) {
       categories.push(vendor.category);
     }
@@ -32,6 +42,11 @@ export default function MainPage() {
           Application level components of building a modern SaaS product. Those components, for example, include
           authentication, billing, communications, and many more. The solutions can be open-source, SaaS, frameworks,
           etc.
+          <br />
+          Want to add yourself? Look at our{' '}
+          <Link href="https://github.com/novuhq/saascomponents-io" underline="always" target="_blank" rel="noopener">
+            <GitHubIcon /> GitHub repo
+          </Link>
         </Typography>
 
         <Grid container spacing={3}>
@@ -43,12 +58,12 @@ export default function MainPage() {
                     {category}{' '}
                     <Chip
                       variant="outlined"
-                      label={vendors.filter((vendor) => vendor.category === category)[0].categoryType}
+                      label={filteredVendors.filter((vendor) => vendor.category === category)[0].categoryType}
                       size="small"
                     />
                   </div>
                 }
-                list={vendors.filter((vendor) => vendor.category === category)}
+                list={filteredVendors.filter((vendor) => vendor.category === category)}
               />
             </Grid>
           ))}
@@ -61,6 +76,11 @@ export default function MainPage() {
           and{' '}
           <Link href="https://www.linkedin.com/in/tomerbarnea/" underline="always" target="_blank" rel="noopener">
             Tomer Barnea
+          </Link>
+          .<br />
+          Sponsored by{' '}
+          <Link href="https://novu.co" underline="always" target="_blank" rel="noopener">
+            Novu
           </Link>
           .
         </Typography>
