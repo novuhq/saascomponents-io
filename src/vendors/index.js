@@ -8,6 +8,15 @@ import snowflake from './logos/snowflake.svg';
 import stripe from './logos/stripe.svg';
 import twilio from './logos/twilio.svg';
 import terraform from './logos/terraform.svg';
+import nginx from './logos/nginx.svg'; 
+import gloo from './logos/gloo.svg'; 
+import haproxy from './logos/HAProxy.png'; 
+import commandbar from './logos/commandbar.svg'; 
+import tooljet from './logos/tooljet.svg'; 
+import retool from './logos/retool.svg'; 
+import budibase from './logos/budibase.svg'; 
+import airplane from './logos/airplane.svg'; 
+import appsmith from './logos/appsmith.svg'; 
 
 export const logos = {
   auth0,
@@ -20,4 +29,13 @@ export const logos = {
   slack,
   snowflake,
   terraform,
+  nginx,
+  gloo,
+  haproxy,
+  commandbar,
+  tooljet,
+  retool,
+  budibase,
+  airplane,
+  appsmith
 };
